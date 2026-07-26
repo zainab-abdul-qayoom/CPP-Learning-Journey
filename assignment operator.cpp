@@ -2,13 +2,7 @@
 using namespace std;
 int main()
 {
-	int a=1;
-	
-	do{
-		cout<<a<<ends;
-		a++;
-		
-	}
-	while(a<=20);
+	int a=10,b=20,c=30;
+	cout<<a<<ends<<b<<ends<<c;
 	return 0;
 }
